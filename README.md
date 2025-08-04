@@ -1,3 +1,3 @@
-Hello I am Bunyod Xayitov
-
-<img src="https://art.pixilart.com/c448e718203e765.png" width="100px">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
