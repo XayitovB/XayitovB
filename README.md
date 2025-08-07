@@ -2,19 +2,12 @@
 
 
 **My Research Interest**:
-- Outlying Aspect Mining
-- Classification
-- Clustering
-- Anomaly Detection
-- Similarity Measure
+- 
 
  **I am open to**:
 
 - any collaboration work,
-- machine learning projects(development or research),
 - research internships and
-- available to become a reviewer or PC member for Machine Learning/Data mining journals or conferences.
-
 ## Skills:
 
 #### Languages:
