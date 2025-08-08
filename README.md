@@ -7,7 +7,7 @@
  **I am open to**:
 
 - any collaboration work,
-- research internships and
+- research internships
 ## Skills:
 
 #### Languages:
