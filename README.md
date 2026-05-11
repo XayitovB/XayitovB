@@ -1,87 +1,85 @@
-### Hi there, I'm Xayitov Bunyod 👋
+<div align="center">
 
+# Bunyod Xayitov
 
-**My Research Interest**:
-- 
+**Full-Stack Developer · Telegram Mini App & Bot Specialist · Uzbekistan**
 
- **I am open to**:
+Building real products used by real businesses.
 
-- any collaboration work,
-- research internships
-## Skills:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/XayitovB/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/XayitovB)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@XayitovB)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=safari&logoColor=white)](https://XayitovB.github.io)
 
-#### Languages:
+</div>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+---
 
-#### ML/DL
+## 🚀 Flagship Project
 
-![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
-![Fast API](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)&nbsp;
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+**[kardly.uz](https://kardly.uz)** — B2B/B2C loyalty platform for Uzbek businesses
 
-#### Database
+QR loyalty cards · cashback engine · POS integrations (Billz, iiko, Poster, rKeeper) · gamification · merchant CRM
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+`FastAPI` `React` `Flutter` `PostgreSQL` `Railway` `Docker`
 
-#### Tools and Technologies
+---
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-<!-- ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp; -->
+## 🛠 Tech Stack
 
-#### IDEs
+**Backend**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![aiogram](https://img.shields.io/badge/aiogram_3-26A5E4?style=flat&logo=telegram&logoColor=white)
 
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
+**Frontend & Mobile**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
+**Infrastructure & Payments**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 
-## Connect with me:
+---
 
-<p align = "center">
+## 📦 Projects
 
-[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/themlphdstudent)
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://XayitovB.github.io)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/themlphdstudent) 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/XayitovB/)
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@XayitovB)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/themlphdstudent)
-</p>
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [monvo](https://github.com/XayitovB/monvo) 🔒 | B2B loyalty platform — kardly.uz | FastAPI · React · Flutter · PostgreSQL |
+| [Kardly-app](https://github.com/XayitovB/Kardly-app) 🔒 | Flutter 2-in-1 loyalty app (customer + merchant) | Flutter · Firebase · Provider |
+| [klent_jocker](https://github.com/XayitovB/klent_jocker) 🔒 | Car inspection Mini App — photo processing & payments | aiogram 3 · FastAPI · YooKassa · Stars |
+| [klent_resume](https://github.com/XayitovB/klent_resume) 🔒 | Resume aggregator with Playwright scrapers | aiogram 3 · FastAPI · Playwright |
+| [newStars](https://github.com/XayitovB/newStars) 🔒 | Telegram Stars buy/sell — Fragment API auto-delivery | aiogram 3 · YooKassa · CryptoPay |
+| [daisu](https://github.com/XayitovB/daisu) 🔒 | Health clinic bot — quiz funnel & Kaspi payments | aiogram 3 · PostgreSQL · Google Sheets |
+| [mining](https://github.com/XayitovB/mining) 🔒 | Mining farm idle game Telegram WebApp | React · FastAPI · CryptoBot |
+| [Telegram-Constructor-bot](https://github.com/XayitovB/Telegram-Constructor-bot) | No-code Telegram bot builder | aiogram 3 · aiosqlite |
+| [Social-Media-Downloader](https://github.com/XayitovB/Social-Media-Downloader) | Download videos from IG, YT, TikTok, FB, Twitter | aiogram 3 · Telethon |
+| [E-commerce-Aiogram-bot](https://github.com/XayitovB/E-commerce-Aiogram-bot) | Telegram shop bot with cart & inline keyboards | aiogram 3 |
+| [Anonimchatbot-Telegram](https://github.com/XayitovB/Anonimchatbot-Telegram) | Anonymous chat bot with matchmaking & premium | aiogram 3 · SQLite |
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=XayitovB&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XayitovB&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+---
 
-<!-- 
-----
-[<img src="https://[github-profile-trophy.vercel.app/?username=XayitovB&row=2&column=3](https://github-profile-trophy.vercel.app/?username=XayitovB&row=2&column=3)" />](https://github.com/ryo-ma/github-profile-trophy)
-[<img src="https://github-readme-stats.vercel.app/api?username=XayitovB&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=XayitovB&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![Durgesh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themlphdstudent&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
- -->
+## 📊 GitHub Stats
 
-<!--
-**themlphdstudent/themlphdstudent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=XayitovB&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XayitovB&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+<div align="center">
+
+Open to collaboration and freelance projects · [bunyodhayitov0805@gmail.com](mailto:bunyodhayitov0805@gmail.com)
+
+</div>
