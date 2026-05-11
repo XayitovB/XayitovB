@@ -53,8 +53,7 @@ QR loyalty cards · cashback engine · POS integrations (Billz, iiko, Poster, rK
 
 <div align="center">
 
-<img width="49%" src="https://streak-stats.demolab.com/?user=XayitovB&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XayitovB&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" />
+<img src="https://streak-stats.demolab.com/?user=XayitovB&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 </div>
 
