@@ -72,8 +72,14 @@ QR loyalty cards · cashback engine · POS integrations (Billz, iiko, Poster, rK
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=XayitovB&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XayitovB&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=XayitovB&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XayitovB&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" />
+
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=XayitovB&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
