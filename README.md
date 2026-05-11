@@ -53,17 +53,18 @@ QR loyalty cards · cashback engine · POS integrations (Billz, iiko, Poster, rK
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [monvo](https://github.com/XayitovB/monvo) 🔒 | B2B loyalty platform — kardly.uz | FastAPI · React · Flutter · PostgreSQL |
-| [Kardly-app](https://github.com/XayitovB/Kardly-app) 🔒 | Flutter 2-in-1 loyalty app (customer + merchant) | Flutter · Firebase · Provider |
-| [klent_jocker](https://github.com/XayitovB/klent_jocker) 🔒 | Car inspection Mini App — photo processing & payments | aiogram 3 · FastAPI · YooKassa · Stars |
-| [klent_resume](https://github.com/XayitovB/klent_resume) 🔒 | Resume aggregator with Playwright scrapers | aiogram 3 · FastAPI · Playwright |
-| [newStars](https://github.com/XayitovB/newStars) 🔒 | Telegram Stars buy/sell — Fragment API auto-delivery | aiogram 3 · YooKassa · CryptoPay |
-| [daisu](https://github.com/XayitovB/daisu) 🔒 | Health clinic bot — quiz funnel & Kaspi payments | aiogram 3 · PostgreSQL · Google Sheets |
-| [mining](https://github.com/XayitovB/mining) 🔒 | Mining farm idle game Telegram WebApp | React · FastAPI · CryptoBot |
-| [Telegram-Constructor-bot](https://github.com/XayitovB/Telegram-Constructor-bot) | No-code Telegram bot builder | aiogram 3 · aiosqlite |
-| [Social-Media-Downloader](https://github.com/XayitovB/Social-Media-Downloader) | Download videos from IG, YT, TikTok, FB, Twitter | aiogram 3 · Telethon |
-| [E-commerce-Aiogram-bot](https://github.com/XayitovB/E-commerce-Aiogram-bot) | Telegram shop bot with cart & inline keyboards | aiogram 3 |
-| [Anonimchatbot-Telegram](https://github.com/XayitovB/Anonimchatbot-Telegram) | Anonymous chat bot with matchmaking & premium | aiogram 3 · SQLite |
+| [kardly](https://github.com/XayitovB/kardly) 🔒 | B2B loyalty platform — kardly.uz | FastAPI · React · Flutter · PostgreSQL |
+| [kardly-mobile](https://github.com/XayitovB/kardly-mobile) 🔒 | Flutter 2-in-1 loyalty app (customer + merchant) | Flutter · Firebase · Provider |
+| [jocker](https://github.com/XayitovB/jocker) 🔒 | Car inspection Mini App — photo processing & payments | aiogram 3 · FastAPI · YooKassa · Stars |
+| [job-radar](https://github.com/XayitovB/job-radar) 🔒 | Resume aggregator with Playwright scrapers | aiogram 3 · FastAPI · Playwright |
+| [stargo](https://github.com/XayitovB/stargo) 🔒 | Telegram Stars buy/sell — Fragment API auto-delivery | aiogram 3 · YooKassa · CryptoPay |
+| [daisu-bot](https://github.com/XayitovB/daisu-bot) 🔒 | Health clinic bot — quiz funnel & Kaspi payments | aiogram 3 · PostgreSQL · Google Sheets |
+| [inpride](https://github.com/XayitovB/inpride) 🔒 | Mining farm idle game Telegram WebApp | React · FastAPI · CryptoBot |
+| [bot-builder](https://github.com/XayitovB/bot-builder) | No-code Telegram bot builder | aiogram 3 · aiosqlite |
+| [social-downloader-bot](https://github.com/XayitovB/social-downloader-bot) | Download videos from IG, YT, TikTok, FB, Twitter | aiogram 3 · Telethon |
+| [social-downloader-web](https://github.com/XayitovB/social-downloader-web) | Social media downloader web app | React · TypeScript · Vite · Tailwind |
+| [shop-bot](https://github.com/XayitovB/shop-bot) | Telegram shop bot with cart & inline keyboards | aiogram 3 |
+| [anon-chat](https://github.com/XayitovB/anon-chat) | Anonymous chat bot with matchmaking & premium | aiogram 3 · SQLite |
 
 ---
 
