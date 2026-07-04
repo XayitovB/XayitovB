@@ -33,17 +33,6 @@ POS integrations with **Billz, iiko, Poster, rKeeper**
 </tr>
 </table>
 
-## 🧩 Featured Projects
-
-| Project | Stack | What it does |
-|---|---|---|
-| [**bot-builder**](https://github.com/XayitovB/bot-builder) | Python · aiogram 3 | No-code Telegram bot builder — deploy bots by token, multi-language (uz/ru/en), admin panel |
-| [**shop-bot**](https://github.com/XayitovB/shop-bot) | Python · aiogram 3 | Telegram e-commerce bot — product catalog, cart, inline keyboards |
-| [**anon-chat**](https://github.com/XayitovB/anon-chat) | Python · aiogram 3 | Anonymous chat bot — gender/age matching, rating system, premium filters |
-| [**social-downloader-bot**](https://github.com/XayitovB/social-downloader-bot) | Python | Downloads video from Instagram, YouTube, TikTok, Facebook, X/Twitter |
-| [**social-downloader-web**](https://github.com/XayitovB/social-downloader-web) | TypeScript · Vite · Tailwind | Web version of the downloader, serverless functions on Netlify |
-| [**clicker-game**](https://github.com/XayitovB/clicker-game) | HTML/CSS | Browser clicker game |
-
 ## 🛠 Tech Stack
 
 **Backend**
