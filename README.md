@@ -1,29 +1,48 @@
 <div align="center">
 
-# Bunyod Xayitov
+# Hi, I'm Bunyod 👋
 
-**Full-Stack Developer · Telegram Mini App & Bot Specialist · Uzbekistan**
+### Full-Stack Developer · Telegram Bots & Mini Apps · Uzbekistan 🇺🇿
 
-Building real products used by real businesses.
+I design and ship backend-heavy products end to end — from database schema to the bot in your pocket.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/XayitovB/)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/XayitovB)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@XayitovB)
-[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=safari&logoColor=white)](https://XayitovB.github.io)
+<a href="https://www.linkedin.com/in/XayitovB/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://t.me/XayitovB"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://medium.com/@XayitovB"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://XayitovB.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white" /></a>
+<a href="mailto:bunyodhayitov0805@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
----
+<br>
 
 ## 🚀 Flagship Project
 
-**[kardly.uz](https://kardly.uz)** — B2B/B2C loyalty platform for Uzbek businesses
+<table>
+<tr>
+<td>
 
-QR loyalty cards · cashback engine · POS integrations (Billz, iiko, Poster, rKeeper) · gamification · merchant CRM
+### [kardly.uz](https://kardly.uz) — B2B/B2C loyalty platform for Uzbek businesses
+
+QR loyalty cards · cashback engine · gamification · merchant CRM
+POS integrations with **Billz, iiko, Poster, rKeeper**
 
 `FastAPI` `React` `Flutter` `PostgreSQL` `Railway` `Docker`
 
----
+</td>
+</tr>
+</table>
+
+## 🧩 Featured Projects
+
+| Project | Stack | What it does |
+|---|---|---|
+| [**bot-builder**](https://github.com/XayitovB/bot-builder) | Python · aiogram 3 | No-code Telegram bot builder — deploy bots by token, multi-language (uz/ru/en), admin panel |
+| [**shop-bot**](https://github.com/XayitovB/shop-bot) | Python · aiogram 3 | Telegram e-commerce bot — product catalog, cart, inline keyboards |
+| [**anon-chat**](https://github.com/XayitovB/anon-chat) | Python · aiogram 3 | Anonymous chat bot — gender/age matching, rating system, premium filters |
+| [**social-downloader-bot**](https://github.com/XayitovB/social-downloader-bot) | Python | Downloads video from Instagram, YouTube, TikTok, Facebook, X/Twitter |
+| [**social-downloader-web**](https://github.com/XayitovB/social-downloader-web) | TypeScript · Vite · Tailwind | Web version of the downloader, serverless functions on Netlify |
+| [**clicker-game**](https://github.com/XayitovB/clicker-game) | HTML/CSS | Browser clicker game |
 
 ## 🛠 Tech Stack
 
@@ -47,8 +66,6 @@ QR loyalty cards · cashback engine · POS integrations (Billz, iiko, Poster, rK
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -67,6 +84,6 @@ QR loyalty cards · cashback engine · POS integrations (Billz, iiko, Poster, rK
 
 <div align="center">
 
-Open to collaboration and freelance projects · [bunyodhayitov0805@gmail.com](mailto:bunyodhayitov0805@gmail.com)
+💬 Open to collaboration and freelance work · 📩 [bunyodhayitov0805@gmail.com](mailto:bunyodhayitov0805@gmail.com)
 
 </div>
