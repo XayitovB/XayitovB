@@ -16,7 +16,7 @@ I design and ship backend-heavy products end to end — from database schema to 
 
 <br>
 
-## 🚀 Flagship Project
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -31,6 +31,18 @@ POS integrations with **Billz, iiko, Poster, rKeeper**
 
 </td>
 </tr>
+<tr>
+<td>
+
+### [Luvu](https://github.com/XayitovB/luvu) — private watch-party for two
+
+Synced YouTube playback · live chat · mesh WebRTC camera calls
+Self-hosted TURN relay + automatic reconnect, tuned for weak mobile connections
+
+`Node.js` `Express` `Socket.io` `WebRTC` `coturn` `Docker`
+
+</td>
+</tr>
 </table>
 
 ## 🛠 Tech Stack
@@ -38,9 +50,11 @@ POS integrations with **Billz, iiko, Poster, rKeeper**
 **Backend**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![aiogram](https://img.shields.io/badge/aiogram_3-26A5E4?style=flat&logo=telegram&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
 
 **Frontend & Mobile**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
