@@ -22,7 +22,7 @@ I design and ship backend-heavy products end to end — from database schema to 
 <tr>
 <td>
 
-### [kardly.uz](https://kardly.uz) — B2B/B2C loyalty platform for Uzbek businesses
+### [monvo.uz](https://monvo.uz) — B2B/B2C loyalty platform for Uzbek businesses
 
 QR loyalty cards · cashback engine · gamification · merchant CRM
 POS integrations with **Billz, iiko, Poster, rKeeper**
