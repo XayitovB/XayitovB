@@ -22,18 +22,6 @@ I design and ship backend-heavy products end to end — from database schema to 
 <tr>
 <td>
 
-### [monvo.uz](https://monvo.uz) — B2B/B2C loyalty platform for Uzbek businesses
-
-QR loyalty cards · cashback engine · gamification · merchant CRM
-POS integrations with **Billz, iiko, Poster, rKeeper**
-
-`FastAPI` `React` `Flutter` `PostgreSQL` `Railway` `Docker`
-
-</td>
-</tr>
-<tr>
-<td>
-
 ### [Luvu](https://github.com/XayitovB/luvu) — private watch-party for two
 
 Synced YouTube playback · live chat · mesh WebRTC camera calls
