@@ -63,20 +63,6 @@ Self-hosted TURN relay + automatic reconnect, tuned for weak mobile connections
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=XayitovB&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-
-</div>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=XayitovB&theme=tokyonight&no-frame=true&row=2&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 <div align="center">
